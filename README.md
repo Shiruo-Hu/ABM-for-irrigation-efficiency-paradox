@@ -28,5 +28,3 @@ To run the simulation, execute the main file:
 ```bash
 python Sim55Agent.py
 
-# Data-for-crop-growth-model
-- `Supplementary information.docx`
