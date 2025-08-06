@@ -13,7 +13,9 @@ If you use this code in your research, please cite the corresponding paper.
 - `plot_utils.py`: Contains all the plotting functions used in the project.
 
 ### Policy Simulations
-- `SimAgentPolicy.py`: Simulates different policy scenarios.
+- `SimAgentPolicyPw.py`: Water price - irrigation efficiency combination scenarios.
+- `SimAgentPolicyPc.py`: Crop price - irrigation efficiency combination scenarios.
+- `SimAgentPolicyAlpha.py`: Land cost - irrigation efficiency combination scenarios.
 
 ### Analysis Tools
 - `Sensitivity_analysis.py`: Performs sensitivity analysis for the model.
@@ -25,3 +27,4 @@ If you use this code in your research, please cite the corresponding paper.
 To run the simulation, execute the main file:
 ```bash
 python Sim55Agent.py
+
